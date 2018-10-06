@@ -2,6 +2,7 @@
 title: 'Sections Page'
 published: true
 hide_git_sync_repo_link: false
+hide_page_title: true
 content:
     items: '@self.children'
     order:
